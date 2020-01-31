@@ -1,0 +1,21 @@
+FEBRUARY 2017:
+25: Finished adding Texture Sheets, Started on some Asset Management
+23: Cleaning Repository and updating documentation
+20: Music Working
+  - Music playback now solved, play/pause working
+  - Window & Taskbar Icon Usage working with STB Image decoding
+19: Collision Work
+  -1: Working on source file documentation
+  -1: More once done with documentation
+  Update 2:
+  -2: Rendering scene completed
+  -2: Music mostly done, Audio is functional
+  -2: Some Player movement is done
+17: Basic Rendering & Input Done
+16: Updated with Stream Code lots of commits coming
+3: Playing with GLFW State Machine for Rendering
+2: Note, current commit isn't final, just a backup
+1: Added basis of Threading & Application Protocol
+
+JANUARY 2017:
+31: Switching to Java

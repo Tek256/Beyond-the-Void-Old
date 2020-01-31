@@ -1,0 +1,14 @@
+Priorities:
+*) More active Patch Notes
+1) Finish new Rendering Pipeline [50%]
+    - Remaining: Layers / Deferred Rendering
+2) Complete Collision Library
+    - Remaining: Math, Response
+3) Finish new Audio Pipeline [75%]
+    - Remaining: Effects
+
+Done Recently:
+- Texture Sheet implementation
+- Music Playback
+- Wiki & Contribution Writings
+- Update Codebase to newer architecture
