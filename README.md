@@ -2,7 +2,7 @@
 
 # Beyond the Void
 #### Version: 0.015 - Let there be sound!
-**[Screenshots](https://github.com/Tek256/Beyond-the-Void/blob/master/docs/screenshots.md)** | **[Old Version](https://github.com/Tek256/Beyond-the-Void-Old)** | **[Patches](https://github.com/Tek256/Beyond-the-Void/blob/master/docs/patches.txt)**
+**[Screenshots](https://github.com/Tek256/Beyond-the-Void-old/blob/master/docs/screenshots.md)** | **[Patches](https://github.com/Tek256/Beyond-the-Void/blob/master/docs/patches.txt)**
 
 ### [About](https://tek256.com/about-btv/)
 This repository is the primary hosting of the codebase for [Beyond the Void](http://tek256.com/about-btv).  
